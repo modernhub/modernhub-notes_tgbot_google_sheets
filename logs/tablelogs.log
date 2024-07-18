@@ -1,0 +1,8 @@
+2023-03-15T11:00:14.630822+0500 DEBUG 'NoneType' object has no attribute 'update'
+2023-03-15T11:04:42.737172+0500 DEBUG 'NoneType' object has no attribute 'update'
+2023-03-15T11:07:24.354303+0500 DEBUG 'NoneType' object has no attribute 'update'
+2023-03-15T11:08:40.087858+0500 DEBUG 'NoneType' object has no attribute 'update'
+2023-03-15T11:09:59.949355+0500 DEBUG 'NoneType' object has no attribute 'update'
+2023-03-15T11:13:11.832109+0500 DEBUG 'NoneType' object has no attribute 'update'
+2023-03-15T11:48:05.877533+0500 DEBUG 'Note' object has no attribute 'data'
+2023-03-15T11:54:42.215613+0500 DEBUG 'Note' object has no attribute 'data'
